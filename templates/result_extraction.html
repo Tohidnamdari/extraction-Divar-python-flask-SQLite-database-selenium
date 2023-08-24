@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <title>result extraction</title>
+ <meta http-equiv="refresh" content="30">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/static/css/bootstrap.rtl.css">
+    <style>
+
+</style>
+</head>
+<body >
+{%include 'nav.html'%}
+{%include 'flash.html'%}
+<br><br><br>
+<table class="table table-bordered table-hover table-responsive">
+    <thead class="table-dark">
+  <tr>
+    <th class="text-center" scope="col">خانه</th>
+      <th class="text-center" scope="col">متراژ</th>
+    <th class="text-center" scope="col">قیمت کل</th>
+      <th class="text-center" scope="col">قیمت هر متر </th>
+      <th class="text-center" scope="col">کاربری</th>
+      <th class="text-center" scope="col">طبقه</th>
+      <th class="text-center" scope="col">سال ساخت</th>
+      <th class="text-center" scope="col">تعداد اتاق</th>
+      <th class="text-center" scope="col">شماره تلفن </th>
+
+  </tr>
+    </thead>
+    {%for v in range (items)%}
+    <tbody style="background-color: #ffc451">
+       <tr>
+    <td  class="text-center"> {{pages_banck1[v].name}}</td>
+           <td  class="text-center">{{pages_banck1[v].metr}}</td>
+    <td  class="text-center">{{pages_banck1[v].allmony}}</td>
+    <td  class="text-center">{{pages_banck1[v].mony}}</td>
+    <td  class="text-center">{{pages_banck1[v].karbar}}</td>
+           <td  class="text-center">{{pages_banck1[v].tabage}}</td>
+           <td  class="text-center">{{pages_banck1[v].salsakht}}</td>
+           <td  class="text-center">{{pages_banck1[v].room}}</td>
+                      <td  class="text-center">---</td>
+
+        </tr>
+    </tbody>
+    {%endfor%}
+    </table>
+<br>
+<hr>
+<div align="center">
+              <button   onclick="history.back()" class="btn btn-outline-danger" >بازگشت</button>
+
+</div>
+<br>
+
+</body>
+</html>

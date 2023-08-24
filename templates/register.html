@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Register</title>
+    <link rel="stylesheet" href="/static/css/form_style.css">
+
+
+</head>
+<body>
+{%include 'nav.html'%}
+
+{%include 'flash.html'%}
+<div class="wrapper">
+      <div class="circle circle1"></div>
+      <div class="circle circle2"></div>
+      <div class="form">
+        <h1>ثبت نام</h1>
+        <form action="/register" method="POST">
+          <input type="text" id="username"  placeholder="نام کاربری " name="username" required />
+          <input type="password" id="password"  name="password"  placeholder=" رمز عبور" required/>
+           <input type="password" id="re_password"  name="re_password"  placeholder="تکرار رمز عبور" required/>
+
+          <button type="submit">ثبت نام</button>
+          <div class="forgot-signup">
+            <p id="info" ></p>
+            <p id="info2" ></p>
+
+          </div>
+        </form>
+      </div>
+    </div>
+<script>
+    pass1=document.getElementById('re_password')
+    pass=document.getElementById('password')
+    info=document.getElementById('info')
+    info2=document.getElementById('info2')
+    pass.addEventListener('change',(event)=>{
+        if (pass.value.length<8)
+    {
+        console.log("behind")
+        info.innerHTML="پسورد باید دارای حداقل 8 رقم باشد"
+        info.style.display='block';
+        info.style.color="#ff0000";
+        info.style.fontSize='12px';
+        info.style.margin='auto';
+        pass.style.borderColor="#ff0000";
+
+    }
+    else{
+        pass.style.borderColor='#c8c8c8';
+
+        console.log("up");
+        info.style.display='none';
+    }
+    })
+      pass1.addEventListener('change',(event)=>{
+        console.log(pass.value.length)
+        if (pass1.value!==pass.value)
+    {
+        info2.innerHTML="پسورد با تکرار ان همخوانی ندارد"
+        info2.style.display='block';
+        info2.style.color="#ff0000";
+        info2.style.fontSize='12px';
+        info2.style.margin='auto';
+        pass.style.borderColor="#ff0000";
+        pass1.style.borderColor="#ff0000";
+
+    }
+    else{
+                pass.style.borderColor='#c8c8c8';
+                pass1.style.borderColor='#c8c8c8';
+
+        info2.style.display='none';
+    }
+    })
+</script></body>
+</html>

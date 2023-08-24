@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <title>Search</title>
+    <link rel="stylesheet" href="/static/css/search.css">
+
+</head>
+<body >
+
+{%include 'nav.html'%}
+{%include 'flash.html'%}
+<br>
+<br>
+<br>
+<br>
+<div class="wrapper">
+      <div class="circle circle1"></div>
+      <div class="circle circle2"></div>
+      <div class="form">
+          <br>
+        <h1 style="margin-top: 25px">ثبت نام</h1>
+    <form class="form1" action="/search" method="post">
+
+    <p style="color: #FFFFFF!important;" class="sign" >شهر</p>
+      <input class="un " type="text"  placeholder="شهر " name="city" >
+        <hr>
+    <p style="color: #FFFFFF!important;" class="sign" >متراژ</p>
+      <input class="un " type="text"  placeholder="حداقل " name="metr" >
+      <input class="un " type="text"  placeholder="حداکثر" name="metr1" >
+        <hr>
+    <p style="color: #FFFFFF!important;" class="sign" >قیمت</p>
+      <input class="txtMoney"  type="text"  placeholder="حداقل " name="mony1" onkeyup="javascript:this.value=itpro(this.value);" />
+      <input class="txtMoney" type="text"  placeholder="حداکثر" name="mony2" onkeyup="javascript:this.value=itpro(this.value);" />
+
+      <center>
+          <button type="submit">جستجو</button>
+
+      <br> <br>
+      </center>
+    </form>
+            </div>
+      </div>
+    </div>
+<script>
+    function itpro(Number)
+  {
+       Number+= '';
+        Number= Number.replace(',', ''); Number= Number.replace(',', ''); Number= Number.replace(',', '');
+        Number= Number.replace(',', ''); Number= Number.replace(',', ''); Number= Number.replace(',', '');
+        x = Number.split('.');
+        y = x[0];
+        z= x.length > 1 ? '.' + x[1] : '';
+        var rgx = /(\d+)(\d{3})/;
+         while (rgx.test(y))
+          y= y.replace(rgx, '$1' + ',' + '$2');
+          return y+ z;
+  }
+</script>
+</body>
+</html>

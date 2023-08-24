@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b0cfd7f9-7243-433b-91b7-3ce8ed476cf0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/static/css/404_style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/form_style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/navbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/search.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/result_by_all_sort.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/result_by_sort.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/result_extraction.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/search.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/chromedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/name.db" beforeDir="false" afterPath="$PROJECT_DIR$/name.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/divar_extraction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/startfile" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/table.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/startfile.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/404blog.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/404blog.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bootstrap.rtl.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/IRANSans.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/static/font/IRANSans.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/bootstrap-grid.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/bootstrap-grid.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/bootstrap-grid.min.rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/bootstrap-grid.rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/bootstrap-grid.rtl.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/bootstrap-grid.rtl.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/bootstrap-grid.rtl.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/bootstrap-reboot.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/bootstrap-reboot.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/bootstrap-reboot.min.rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/bootstrap-reboot.rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/bootstrap-reboot.rtl.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/bootstrap-reboot.rtl.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/bootstrap-reboot.rtl.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/bootstrap-utilities.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/bootstrap-utilities.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/bootstrap-utilities.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/bootstrap-utilities.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/bootstrap-utilities.rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/bootstrap-utilities.rtl.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/bootstrap-utilities.rtl.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/bootstrap-utilities.rtl.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/bootstrap.min.rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/df.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/bootstrap.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/bootstrap.bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/bootstrap.bundle.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/bootstrap.esm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/bootstrap.esm.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/bootstrap.esm.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/bootstrap.esm.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/t.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/Relationship.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/botten.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/chart.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/city.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/error-404.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/error-404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/first1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/first_page.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/flaskhtm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/flaskhtm.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/ind.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/nav.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/nav.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/result.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/sort.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/sortall.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/thierd.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/flash.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/use_database.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/کارکرد پروژه.mp4" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="selenium_edition" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2DisvwjQEI2mwE3d8qQaK5VL9wJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowRun.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/static/css" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\python\PycharmProjects\divarbot\static\img" />
+      <recent name="F:\python\PycharmProjects\divarbot\static\font" />
+      <recent name="F:\python\PycharmProjects\divarbot\static" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\python\PycharmProjects\divarbot\static\css" />
+      <recent name="F:\python\PycharmProjects\divarbot\static" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.divar_extraction (1)">
+    <configuration name="botten.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/divarbot/templates/botten.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="register.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/divarbot/templates/register.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="divar_extraction (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="selenium_edition" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/divar_extraction.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="divar_extraction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="selenium_edition" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="F:\python\PycharmProjects\divarbot\divar_extraction.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="selenium_edition" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.divar_extraction (1)" />
+        <item itemvalue="Python.divar_extraction" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="JavaScript Debug.botten.html" />
+        <item itemvalue="JavaScript Debug.register.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0cfd7f9-7243-433b-91b7-3ce8ed476cf0" name="Default Changelist" comment="" />
+      <created>1661193473987</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661193473987</updated>
+      <workItem from="1661193475258" duration="789000" />
+      <workItem from="1661233186056" duration="2223000" />
+      <workItem from="1661253218559" duration="5718000" />
+      <workItem from="1661262224432" duration="89000" />
+      <workItem from="1661278586977" duration="3294000" />
+      <workItem from="1661281951215" duration="299000" />
+      <workItem from="1661367606537" duration="30000" />
+      <workItem from="1661410470818" duration="3679000" />
+      <workItem from="1661415357165" duration="1220000" />
+      <workItem from="1661418063146" duration="3088000" />
+      <workItem from="1661662896821" duration="378000" />
+      <workItem from="1661703084526" duration="258000" />
+      <workItem from="1661796459467" duration="294000" />
+      <workItem from="1661841035059" duration="15000" />
+      <workItem from="1661863160199" duration="4000" />
+      <workItem from="1661863183786" duration="1389000" />
+      <workItem from="1661885199804" duration="2109000" />
+      <workItem from="1661970616954" duration="736000" />
+      <workItem from="1662015971730" duration="616000" />
+      <workItem from="1662037553438" duration="209000" />
+      <workItem from="1662105268344" duration="341000" />
+      <workItem from="1662150068485" duration="252000" />
+      <workItem from="1662227479262" duration="233000" />
+      <workItem from="1662271619214" duration="541000" />
+      <workItem from="1662276766979" duration="2438000" />
+      <workItem from="1662367140846" duration="4000" />
+      <workItem from="1662442518172" duration="3344000" />
+      <workItem from="1662452207359" duration="2058000" />
+      <workItem from="1662472783085" duration="12000" />
+      <workItem from="1662473250235" duration="648000" />
+      <workItem from="1662475078665" duration="307000" />
+      <workItem from="1662539527781" duration="621000" />
+      <workItem from="1662541158907" duration="50000" />
+      <workItem from="1662627978536" duration="4144000" />
+      <workItem from="1662658036129" duration="30000" />
+      <workItem from="1662658903445" duration="54000" />
+      <workItem from="1662714087156" duration="1315000" />
+      <workItem from="1662717908856" duration="984000" />
+      <workItem from="1662727634076" duration="270000" />
+      <workItem from="1662798680056" duration="6000" />
+      <workItem from="1662799240356" duration="1549000" />
+      <workItem from="1662872734117" duration="9000" />
+      <workItem from="1662872766260" duration="5000" />
+      <workItem from="1662877830134" duration="106000" />
+      <workItem from="1662897586082" duration="737000" />
+      <workItem from="1662913924001" duration="183000" />
+      <workItem from="1662966536226" duration="984000" />
+      <workItem from="1662967741972" duration="68000" />
+      <workItem from="1663004180087" duration="907000" />
+      <workItem from="1663007622832" duration="3000" />
+      <workItem from="1663009224534" duration="4000" />
+      <workItem from="1663151097788" duration="109000" />
+      <workItem from="1663151664494" duration="426000" />
+      <workItem from="1663178230632" duration="307000" />
+      <workItem from="1663179402792" duration="3000" />
+      <workItem from="1663229746516" duration="67000" />
+      <workItem from="1663356603836" duration="75000" />
+      <workItem from="1663491541684" duration="144000" />
+      <workItem from="1663491699071" duration="8126000" />
+      <workItem from="1663521505980" duration="7000" />
+      <workItem from="1663651226721" duration="1210000" />
+      <workItem from="1663699388210" duration="10000" />
+      <workItem from="1663699525243" duration="2067000" />
+      <workItem from="1663784585165" duration="881000" />
+      <workItem from="1663928320323" duration="750000" />
+      <workItem from="1664126672178" duration="12000" />
+      <workItem from="1664631338013" duration="1088000" />
+      <workItem from="1664718586957" duration="3382000" />
+      <workItem from="1664805371222" duration="221000" />
+      <workItem from="1664812892147" duration="5892000" />
+      <workItem from="1664876425162" duration="2325000" />
+      <workItem from="1664902414680" duration="1583000" />
+      <workItem from="1664979523100" duration="79000" />
+      <workItem from="1664997490814" duration="2473000" />
+      <workItem from="1665169147804" duration="8000" />
+      <workItem from="1665325836062" duration="3991000" />
+      <workItem from="1665337484332" duration="899000" />
+      <workItem from="1665497163787" duration="2756000" />
+      <workItem from="1665638825071" duration="1649000" />
+      <workItem from="1665689648878" duration="470000" />
+      <workItem from="1665860226230" duration="24000" />
+      <workItem from="1665924261186" duration="5358000" />
+      <workItem from="1665945359983" duration="232000" />
+      <workItem from="1666010258785" duration="400000" />
+      <workItem from="1666018949278" duration="1554000" />
+      <workItem from="1666102849821" duration="37000" />
+      <workItem from="1666102899624" duration="14000" />
+      <workItem from="1666114590074" duration="885000" />
+      <workItem from="1666250841403" duration="6000" />
+      <workItem from="1666465132733" duration="117000" />
+      <workItem from="1666529290111" duration="1927000" />
+      <workItem from="1666538920359" duration="1201000" />
+      <workItem from="1666547311946" duration="2855000" />
+      <workItem from="1666701635924" duration="592000" />
+      <workItem from="1666705700293" duration="1538000" />
+      <workItem from="1666719858307" duration="1527000" />
+      <workItem from="1666859262582" duration="2089000" />
+      <workItem from="1667135821701" duration="6188000" />
+      <workItem from="1667151662316" duration="1855000" />
+      <workItem from="1667235931388" duration="2084000" />
+      <workItem from="1667320398807" duration="1187000" />
+      <workItem from="1667388044175" duration="3546000" />
+      <workItem from="1667492996679" duration="30000" />
+      <workItem from="1667746194063" duration="2682000" />
+      <workItem from="1667929679834" duration="838000" />
+      <workItem from="1668017050762" duration="682000" />
+      <workItem from="1668065793564" duration="3249000" />
+      <workItem from="1668098106025" duration="1140000" />
+      <workItem from="1668151166344" duration="1175000" />
+      <workItem from="1668956635177" duration="2357000" />
+      <workItem from="1669228134064" duration="2423000" />
+      <workItem from="1669276025829" duration="1239000" />
+      <workItem from="1669560289784" duration="3289000" />
+      <workItem from="1669574775550" duration="25000" />
+      <workItem from="1669574812608" duration="1474000" />
+      <workItem from="1669577711363" duration="1235000" />
+      <workItem from="1669726254358" duration="707000" />
+      <workItem from="1670165126647" duration="3715000" />
+      <workItem from="1670329946594" duration="2803000" />
+      <workItem from="1670333606266" duration="432000" />
+      <workItem from="1670481525542" duration="1947000" />
+      <workItem from="1670522139289" duration="840000" />
+      <workItem from="1670766022580" duration="7359000" />
+      <workItem from="1670954795100" duration="1771000" />
+      <workItem from="1671368191714" duration="4378000" />
+      <workItem from="1671694431821" duration="2859000" />
+      <workItem from="1671697868255" duration="452000" />
+      <workItem from="1671821872456" duration="1977000" />
+      <workItem from="1672084576160" duration="833000" />
+      <workItem from="1672157491547" duration="2457000" />
+      <workItem from="1672324341630" duration="1807000" />
+      <workItem from="1672571744577" duration="615000" />
+      <workItem from="1672574815131" duration="3280000" />
+      <workItem from="1672657583637" duration="2681000" />
+      <workItem from="1672691273193" duration="1172000" />
+      <workItem from="1672733766131" duration="3840000" />
+      <workItem from="1672751347729" duration="1219000" />
+      <workItem from="1672828308069" duration="334000" />
+      <workItem from="1672860669020" duration="1071000" />
+      <workItem from="1673028480220" duration="789000" />
+      <workItem from="1673085950599" duration="18000" />
+      <workItem from="1673085981118" duration="654000" />
+      <workItem from="1673108605434" duration="1229000" />
+      <workItem from="1673109967762" duration="4000" />
+      <workItem from="1673118311613" duration="466000" />
+      <workItem from="1673183485539" duration="4453000" />
+      <workItem from="1673358741296" duration="455000" />
+      <workItem from="1673519295669" duration="1750000" />
+      <workItem from="1673764272066" duration="687000" />
+      <workItem from="1674132001291" duration="1189000" />
+      <workItem from="1674393451633" duration="2979000" />
+      <workItem from="1674676833666" duration="3773000" />
+      <workItem from="1674756820839" duration="3337000" />
+      <workItem from="1674842412338" duration="527000" />
+      <workItem from="1674918713395" duration="517000" />
+      <workItem from="1675002927875" duration="5000" />
+      <workItem from="1675002992506" duration="2073000" />
+      <workItem from="1675318235084" duration="2057000" />
+      <workItem from="1675453647344" duration="804000" />
+      <workItem from="1675454692276" duration="2963000" />
+      <workItem from="1675503993547" duration="660000" />
+      <workItem from="1675533493352" duration="1435000" />
+      <workItem from="1675600810457" duration="2403000" />
+      <workItem from="1675603976292" duration="1808000" />
+      <workItem from="1675932228308" duration="3635000" />
+      <workItem from="1676812279325" duration="6703000" />
+      <workItem from="1677001134290" duration="4382000" />
+      <workItem from="1677094518283" duration="1143000" />
+      <workItem from="1677144922254" duration="4019000" />
+      <workItem from="1677168243009" duration="1211000" />
+      <workItem from="1677315192280" duration="39000" />
+      <workItem from="1677331906512" duration="5861000" />
+      <workItem from="1677521604964" duration="2360000" />
+      <workItem from="1677752650622" duration="117000" />
+      <workItem from="1677752780139" duration="1000" />
+      <workItem from="1677852502292" duration="2497000" />
+      <workItem from="1677874193414" duration="1404000" />
+      <workItem from="1677940823234" duration="349000" />
+      <workItem from="1678021781793" duration="5081000" />
+      <workItem from="1678302353363" duration="1637000" />
+      <workItem from="1679306790436" duration="607000" />
+      <workItem from="1679326984515" duration="1078000" />
+      <workItem from="1679504561831" duration="670000" />
+      <workItem from="1679572066506" duration="3872000" />
+      <workItem from="1681557733619" duration="599000" />
+      <workItem from="1681651003177" duration="102000" />
+      <workItem from="1681651229486" duration="1188000" />
+      <workItem from="1682068486202" duration="619000" />
+      <workItem from="1684088139706" duration="1476000" />
+      <workItem from="1689411417859" duration="639000" />
+      <workItem from="1689415282979" duration="810000" />
+      <workItem from="1689482819220" duration="5000" />
+      <workItem from="1691514746631" duration="1470000" />
+      <workItem from="1691741566254" duration="611000" />
+      <workItem from="1691752301110" duration="609000" />
+      <workItem from="1692543924742" duration="8099000" />
+      <workItem from="1692554412864" duration="983000" />
+      <workItem from="1692633257271" duration="1168000" />
+      <workItem from="1692680852426" duration="1832000" />
+      <workItem from="1692683627398" duration="428000" />
+      <workItem from="1692866996142" duration="1642000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="532" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1692545192242">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="532" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1692545192242" />
+    <state width="1493" height="326" key="GridCell.Tab.0.bottom" timestamp="1692868639735">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="326" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1692868639735" />
+    <state width="1493" height="326" key="GridCell.Tab.0.center" timestamp="1692868639735">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="326" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1692868639735" />
+    <state width="1493" height="326" key="GridCell.Tab.0.left" timestamp="1692868639735">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="326" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1692868639735" />
+    <state width="1493" height="326" key="GridCell.Tab.0.right" timestamp="1692868639735">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="326" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1692868639735" />
+    <state x="285" y="259" key="com.intellij.ide.util.TipDialog" timestamp="1691752304353">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="285" y="259" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1691752304353" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/divarbot$selenium1.coverage" NAME="selenium1 Coverage Results" MODIFIED="1672161238020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/selenium_edition$tess.coverage" NAME="tess Coverage Results" MODIFIED="1670773881211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/selenium_edition$nr_e_.coverage" NAME="nr=e= Coverage Results" MODIFIED="1662914043265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/selenium_edition$selenium1.coverage" NAME="selenium1 Coverage Results" MODIFIED="1662445020285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/divarbot$divar_extraction__1_.coverage" NAME="divar_extraction (1) Coverage Results" MODIFIED="1692868607127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/selenium_edition$emadchokh.coverage" NAME="emadchokh Coverage Results" MODIFIED="1662278619334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/selenium_edition$.coverage" NAME="یی Coverage Results" MODIFIED="1671697211924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/divarbot$test.coverage" NAME="test Coverage Results" MODIFIED="1692682144695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/selenium_edition$selenium_01.coverage" NAME="selenium_01 Coverage Results" MODIFIED="1671696943538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/selenium_edition$database.coverage" NAME="database Coverage Results" MODIFIED="1669576203172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/selenium_edition$sel.coverage" NAME="sel Coverage Results" MODIFIED="1664876667889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/divarbot$selenium_01.coverage" NAME="selenium_01 Coverage Results" MODIFIED="1692868509242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/selenium_edition$seleniumpy.coverage" NAME="seleniumpy Coverage Results" MODIFIED="1664997583471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/divarbot$tess.coverage" NAME="tess Coverage Results" MODIFIED="1677315210459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
